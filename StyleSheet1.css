@@ -25,3 +25,6 @@ a {
     margin: 30px;
     text-align: center;
 }  
+li{
+    list-style: none;
+}
