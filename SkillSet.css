@@ -85,3 +85,15 @@ a {
 li {
     list-style: none;
 }
+
+dt {
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #000;
+    color: red;
+    font-weight: 200;
+}
+
+h1 {
+    text-shadow: 1px 1px 0 black, 2px 2px 0 black;
+    color:red;
+}
