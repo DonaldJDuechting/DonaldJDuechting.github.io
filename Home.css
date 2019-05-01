@@ -105,3 +105,16 @@ a {
 li{
     list-style: none;
 }
+.GF{
+    height:67%;
+    float:right;
+    margin-right:100px;
+    border:solid;
+    border-color: cornflowerblue;
+
+}
+
+.Group {
+    border: solid;
+    border-color: cornflowerblue;
+}
