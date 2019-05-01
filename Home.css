@@ -1,11 +1,18 @@
-﻿.logo{
-    width: 100px;
-    padding-left: 25px;
-    
+﻿.logo {
+    width: 8.25%;
+    margin-left: 25px;
+    border: solid;
+    border-color: cornflowerblue;
+}
+
+.group{
+    width: 11%;
+    margin-left: 55px;
+    height: 20%;
 }
 
 body{
-    background-color: cornflowerblue;
+    background-color: bisque;
 
 }
 p{
