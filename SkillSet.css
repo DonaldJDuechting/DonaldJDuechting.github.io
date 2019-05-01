@@ -96,8 +96,9 @@ dt {
 }
 
 h1 {
-    text-shadow: 1px 1px 0 black, 2px 2px 0 black;
-    color:red;
+    font-family: Algerian;
+    color: deeppink;
+    font-size: 30px;
 }
 dd {
     font-size: 20px;
