@@ -5,12 +5,15 @@
 .logo {
     width: 100px;
     padding-left: 25px;
+    border:solid;
+    border-color: cornflowerblue;
+    border
 }
 
 
 .header {
     overflow: hidden;
-    background-color: #f1f1f1;
+    background-color: bisque;
     padding: 10px 5px;
 }
 
@@ -84,4 +87,16 @@ a {
 
 li {
     list-style: none;
+}
+
+dt {
+    padding: 10px;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #000;
+    color: red;
+    font-weight: 200;
+}
+
+.last{
+    padding-bottom:10px;
 }
