@@ -87,3 +87,15 @@ a {
 li {
     list-style: none;
 }
+
+dt {
+    padding: 10px;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #000;
+    color: red;
+    font-weight: 200;
+}
+dd {
+    font-size: 20px;
+    font-family: 'Comic Sans MS';
+}

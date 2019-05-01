@@ -99,3 +99,8 @@ dt {
 .last{
     padding-bottom:10px;
 }
+
+dd{
+    font-size: 20px;
+    font-family: 'Comic Sans MS';
+}

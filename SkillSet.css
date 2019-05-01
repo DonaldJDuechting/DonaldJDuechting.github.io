@@ -99,3 +99,7 @@ h1 {
     text-shadow: 1px 1px 0 black, 2px 2px 0 black;
     color:red;
 }
+dd {
+    font-size: 20px;
+    font-family: 'Comic Sans MS';
+}
